@@ -10,7 +10,7 @@
 
 ### Find me on the internet 🚀
 
-🌐 Site - 🚧 under development ... 🚧 <br />
+🌐 [Site](https://www.felipecepluki.com.br/) <br />
 🐦 [Twitter](https://twitter.com/felipecepluki) <br />
 📷 [Instagram](https://www.instagram.com/felipecepluki/) <br />
 🗃️ [Linkedin](https://www.linkedin.com/in/felipe-cepluki-lopes-4b7a18243)
