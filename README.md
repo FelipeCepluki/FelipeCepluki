@@ -26,7 +26,6 @@
 
 ##
 
-[![Website Badge](https://img.shields.io/badge/-felipecepluki.com.br-5D00E8?style=for-the-badge&logo=Brave&logoColor=white&link=https://www.felipecepluki.com.br/)](https://www.felipecepluki.com.br/) 
 [![Instagram Badge](https://img.shields.io/badge/-@felipe%20cepluki-5D00E8?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipecepluki)](https://www.instagram.com/felipecepluki/) 
 [![Twitter Badge](https://img.shields.io/badge/-@felipe%20cepluki-5D00E8?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/felipecepluki) 
 [![Linkedin Badge](https://img.shields.io/badge/-@Felipe%20Cepluki-5D00E8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/felipe-cepluki-lopes-4b7a18243) 
