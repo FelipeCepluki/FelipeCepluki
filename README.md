@@ -1,8 +1,7 @@
 ### Hey, I'm Felipe Cepluki 👋
 
-📄 Freelance Web Developer <br />
+🧑‍💻 Freelance Web Developer <br />
 🇧🇷 Curitiba, Brazil <br /> 
-🎒 17 years old
 
 <div align="center">
   <a href="https://github.com/felipecepluki">
