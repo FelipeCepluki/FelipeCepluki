@@ -1,8 +1,5 @@
 ### Hey, I'm Felipe Cepluki 👋
 
-🧑‍💻 Freelance Web Developer <br />
-🇧🇷 Curitiba, Brazil <br /> 
-
 <div align="center">
   <a href="https://github.com/felipecepluki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecepluki&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -17,6 +14,7 @@
   <img alt="Felipe-TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
   <img alt="Felipe-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
   <img alt="Felipe-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+   <img alt="Felipe-Elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="50" height="50" />
   <img alt="Felipe-Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" height="50" />
   <img alt="Felipe-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
   <img alt="Felipe-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
