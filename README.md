@@ -1,5 +1,6 @@
 👨🏻‍💻 I'm Felipe Cepluki <br />
 💻 I study cyber defense <br />
+⚛️ React, React Native and Node <br />
 🐧 I love Linux <br />
 
 <div align="center">
